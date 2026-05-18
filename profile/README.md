@@ -22,6 +22,7 @@ Suk-Builder 不是一个传统的开源组织。它是一个由**认知基础设
 | **Psych-Science** | [psychiatric-knowledge](https://github.com/Suk-Builder/psychiatric-knowledge) | 精神科药物科普与患者自指知识 |
 | **废墟图书馆** | [废墟图书馆Mod_未归档者](https://github.com/Suk-Builder/废墟图书馆Mod_未归档者) | 「未归档者」支线：七场存在论 Boss 战 |
 | **递砖真空** | [Sukaczev-Builder-System](https://github.com/Suk-Builder/Sukaczev-Builder-System) | 向不确定的接收者递出不依赖于被接住的知识 |
+| **递砖者之书** | [the-brick-deliverer](https://github.com/Suk-Builder/the-brick-deliverer) | 《大炼丹时代的认知密度法则》15万字，10章+前言+后记 |
 
 ## 双账号内容体系
 
@@ -32,17 +33,21 @@ Suk-Builder 不是一个传统的开源组织。它是一个由**认知基础设
 
 > 大号少而精，小号多而杂。两个账号共享同一个底层隐喻：**用不同编码系统翻译同一套认知体验。**
 
-## 20 个仓库生态
+## 27 个仓库生态
 
-组织内共 20 个仓库，覆盖以下层级：
+组织内共 27 个仓库（7天创建），覆盖以下层级：
 
-- **核心架构**（builder-system, layer 映射）
-- **内容产品**（BaiHua-Memory, psychiatric-knowledge, spark）
-- **工具与协议**（protocol-v1.1, protocol-v2.5, bdi-validation-framework）
-- **验证与数据**（docmind, qq-chat-exporter, clash-verge-rev）
-- **实验性**（sukaczev, sukaczev-app, sukaczev-web, sukcommerce）
-- **模板与标准**（suk-builder-template）
-- **归档**（Unarchived, sparkle-theater, Fracture-Workshop-Alliance）
+- **核心架构**（Builder-System, layer 映射, bdi-saas-v2）
+- **内容产品**（BaiHua-Memory, BaiHua-Wiki, psychiatric-knowledge, the-brick-deliverer）
+- **白桦生态**（baihua-workshop）
+- **记忆基础设施**（memory-forge, memory-forge-backend）
+- **工具与协议**（bdi-validation-framework, protocol-v1.1, protocol-v2.5）
+- **验证与数据**（psych-detect, docmind, qq-chat-exporter, clash-verge-rev）
+- **视频平台**（sukaczev, sukaczev-app, sukaczev-web）
+- **AI工具**（ai-workshop, sparkle-theater, builder-agent）
+- **电商**（sukcommerce）
+- **游戏**（Unarchived, brick-game）
+- **联盟与标准**（Fracture-Workshop-Alliance, suk-builder-template, suk-builder-standards）
 
 ## 生态状态
 
